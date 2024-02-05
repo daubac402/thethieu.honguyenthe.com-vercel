@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.facebook.com/nguyenthethieu3006",
+      "permanent": true
+    }
+  ]
+}
